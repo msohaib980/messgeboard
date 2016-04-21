@@ -1,0 +1,42 @@
+.background {
+    background-image: url("http://assets.hardwarezone.com/img/2015/07/screen-shot-2015-07-14-at-7-58-53-am.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    display: block;
+
+}
+
+ .chat {
+  width: 12%;
+  height: 8%;
+  border-radius: 20%;
+  font-size: 20px;
+  position: absolute;
+  top: 30%;
+  margin-left: 50%;
+  background:none;
+  box-shadow:none;
+}
+
+
+.chatroom{
+  display: inline-block;
+  border: 2px solid grey;
+  width:auto;
+  heigth:auto;
+  margin-left: 40px;
+  margin-top: 80px;
+}
+.chattext textarea{
+  height: 100px;
+  width: 200px;
+  margin-top: 30px;
+  margin-left: 20px;
+  border: 1px solid grey;
+
+
+}
+.image {
+  height:50px;
+  width:40px
+}
